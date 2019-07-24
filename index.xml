@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>行成于思，业精于勤</title>
+    <title>业精于勤，行成于思</title>
     <link>http://starfish.cc/</link>
-    <description>Recent content on 行成于思，业精于勤</description>
+    <description>Recent content on 业精于勤，行成于思</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact></contact>
@@ -11,6 +11,16 @@
     
         <atom:link href="http://starfish.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>第一篇博文</title>
+      <link>http://starfish.cc/posts/first-post/</link>
+      <pubDate>Tue, 02 Jul 2019 08:58:47 +0800</pubDate>
+      <author></author>
+      <guid>http://starfish.cc/posts/first-post/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

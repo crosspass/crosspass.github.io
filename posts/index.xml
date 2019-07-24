@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 业精于勤，行成于思</title>
+    <link>http://starfish.cc/posts/</link>
+    <description>Recent content in Posts on 业精于勤，行成于思</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 02 Jul 2019 08:58:47 +0800</lastBuildDate>
+    
+	<atom:link href="http://starfish.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇博文</title>
+      <link>http://starfish.cc/posts/first-post/</link>
+      <pubDate>Tue, 02 Jul 2019 08:58:47 +0800</pubDate>
+      
+      <guid>http://starfish.cc/posts/first-post/</guid>
+      <description>欢迎 我的第一篇博文
+将计划退出一下主题的文章
+ 算法 Ruby 杂谈  </description>
+    </item>
+    
+  </channel>
+</rss>
