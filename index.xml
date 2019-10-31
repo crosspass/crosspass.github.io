@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>行成于思，业精于勤</title>
-    <link>http://starfish.cc/</link>
-    <description>Recent content on 行成于思，业精于勤</description>
-    <generator>Hugo - gohugo.io</generator>
-    <language>en</language>
-    <contact></contact>
-    <copyright></copyright>
+    <title>业精于勤，行成于思</title>
+    <link>https://crosspass.github.io/</link>
+    <description>Recent content on 业精于勤，行成于思</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 24 Jul 2019 13:38:55 +0800</lastBuildDate>
     
-        <atom:link href="http://starfish.cc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://crosspass.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>https://crosspass.github.io/books/</link>
+      <pubDate>Wed, 24 Jul 2019 13:38:55 +0800</pubDate>
+      
+      <guid>https://crosspass.github.io/books/</guid>
+      <description>读书杂谈 http://lucida.me/blog/developer-reading-list/</description>
+    </item>
+    
+    <item>
+      <title>第一篇博文</title>
+      <link>https://crosspass.github.io/posts/first-post/</link>
+      <pubDate>Tue, 02 Jul 2019 08:58:47 +0800</pubDate>
+      
+      <guid>https://crosspass.github.io/posts/first-post/</guid>
+      <description>欢迎 我的第一篇博文
+将计划退出一下主题的文章
+ 算法 Ruby 杂谈 书籍  </description>
+    </item>
     
   </channel>
 </rss>

@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://starfish.cc/categories/</loc>
+    <loc>https://crosspass.github.io/books/</loc>
+    <lastmod>2019-07-24T13:38:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crosspass.github.io/</loc>
+    <lastmod>2019-07-24T13:38:55+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://starfish.cc/tags/</loc>
+    <loc>https://crosspass.github.io/posts/</loc>
+    <lastmod>2019-07-02T08:58:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://starfish.cc/</loc>
+    <loc>https://crosspass.github.io/posts/first-post/</loc>
+    <lastmod>2019-07-02T08:58:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://crosspass.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
